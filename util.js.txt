@@ -14,4 +14,8 @@ add from login
 
 555
 
+
 666-本地仓库
+
+666 -remote
+
